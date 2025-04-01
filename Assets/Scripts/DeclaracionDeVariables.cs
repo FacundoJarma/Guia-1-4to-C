@@ -22,7 +22,6 @@ public class DeclaracionDeVariables : MonoBehaviour
         Debug.Log(kilosVendidos);
         Debug.Log(nombreAlumno);
         Debug.Log(estaAprobado);
-
     }
 
     // Update is called once per frame
